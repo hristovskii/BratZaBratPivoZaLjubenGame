@@ -10,7 +10,6 @@ public class SpawnObsticles : MonoBehaviour
     public float TimeBetweenSpawn;
     private float spawnTime;
 
-    // Update is called once per frame
     void Update()
     {
 

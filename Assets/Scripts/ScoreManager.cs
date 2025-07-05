@@ -5,9 +5,6 @@ public class ScoreManager : MonoBehaviour
     public Text scoreText;
     private float score;
 
-
-
-    // Update is called once per frame
     void Update()
     {
         if (GameObject.FindGameObjectWithTag("Player") != null)
